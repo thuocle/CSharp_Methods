@@ -1,4 +1,4 @@
-//Ham nhap mang
+//Ham nhap mangg
         public static void GetArr(int[] arr, int length)
         {
             for (int i = 0; i < length; i++)
