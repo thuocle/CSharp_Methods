@@ -26,7 +26,7 @@ namespace CSharpMethods
             }
             Console.WriteLine();
         }
-        //Ham kiem tra so nguyen to
+        //Ham kiem tra so nguyen too
         public static bool isPrime(int number)
         {
             if (number <= 1) return false;
