@@ -15,7 +15,7 @@ namespace CSharpMethods
                 arr[i] = int.Parse(Console.ReadLine());
             }
         }
-        //Ham xuat mang
+        //Ham xuat mangg
         public static void PrintArr(int[] arr)
         {
             Console.WriteLine();
