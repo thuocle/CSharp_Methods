@@ -6,7 +6,7 @@ namespace CSharpMethods
 
     class Program
     {
-        //Ham nhap mangg
+        //Ham nhap mang
         public static void GetArr(int[] arr, int length)
         {
             for (int i = 0; i < length; i++)
