@@ -56,7 +56,7 @@ namespace CSharpMethods
             return count;
         }
 
-        //CS02-1-06: Bài toán đảo ngược mảng kí tự
+        //CS02-1-06: Bài toán đảo ngược mảng kí tự/
         public static void reverseArrChar(string str)
         {
             int n = str.Length;
