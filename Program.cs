@@ -41,7 +41,7 @@ namespace CSharpMethods
 
             return true;
         }
-        //CS02-1-03: Đếm số lần xuất hiện của ký tự trong chuỗi
+        //CS02-1-03: Đếm số lần xuất hiện của ký tự trong chuỗii
         public static int countCharOfStr(string str, char c)
         {
             int count = 0;
